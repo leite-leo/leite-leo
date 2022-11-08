@@ -9,12 +9,6 @@
 
 - 💬 Ask me about **React, RTL, Redux, Context API**
 
-- 📫 How to reach me **leoinatel@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/leonardo-sleite/](https://www.linkedin.com/in/leonardo-sleite/)
-
-- ⚡ Curious fact **I like to fish! :fish_on_the_hook:**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leonardo-sleite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-sleite" height="30" width="40" /></a>
