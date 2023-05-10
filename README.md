@@ -1,9 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leite-leo&label=Profile%20views&color=0e75b6&style=flat" alt="leite-leo" /> </p>
 
 <h1 align="center">Hi 👋, I'm Leonardo Leite</h1>
-<h3 align="center">A passionate web developer from Brazil</h3>
+<h3 align="center">A passionate full-stack web developer from Brazil</h3>
 
-- 🌱 I’m a Full-Stack Web developer
+
+
+- I like to fish and watch football!
+
 
 
 <h3 align="left">Connect with me:</h3>
