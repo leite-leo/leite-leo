@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Leite</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Backend**
-
-- 💬 Ask me about **React, RTL, Redux, Context API**
+- 🌱 I’m a Full-Stack Web developer
 
 
 <h3 align="left">Connect with me:</h3>
