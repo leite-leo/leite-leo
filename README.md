@@ -45,13 +45,10 @@
 
 ---
 
-<!-- ========================= BACKEND STACK ========================= -->
-
 <h3 align="left">Backend Stack:</h3>
 
 <p align="left">
 
-  <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
@@ -61,7 +58,6 @@
     />
   </a>
 
-  <!-- Express -->
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
@@ -71,7 +67,6 @@
     />
   </a>
 
-  <!-- REST API -->
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png"
@@ -81,7 +76,6 @@
     />
   </a>
 
-  <!-- Sequelize -->
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
     <img
       src="https://sequelize.org/img/logo.svg"
@@ -91,7 +85,6 @@
     />
   </a>
 
-  <!-- PostgreSQL -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
@@ -101,7 +94,6 @@
     />
   </a>
 
-  <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
@@ -111,7 +103,6 @@
     />
   </a>
 
-  <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
@@ -121,7 +112,6 @@
     />
   </a>
 
-  <!-- Jest -->
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
@@ -135,13 +125,10 @@
 
 ---
 
-<!-- ========================= CLOUD & DEPLOY ========================= -->
-
 <h3 align="left">Cloud & Deploy:</h3>
 
 <p align="left">
 
-  <!-- AWS -->
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
@@ -151,7 +138,6 @@
     />
   </a>
 
-  <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -161,7 +147,6 @@
     />
   </a>
 
-  <!-- Heroku -->
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
@@ -171,10 +156,9 @@
     />
   </a>
 
-  <!-- Render -->
   <a href="https://render.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://images.seeklogo.com/logo-png/43/1/render-logo-png_seeklogo-435814.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg"
       alt="render"
       width="55"
       height="55"
@@ -185,13 +169,10 @@
 
 ---
 
-<!-- ========================= INTEGRATIONS ========================= -->
-
 <h3 align="left">Integrations & Tools:</h3>
 
 <p align="left">
 
-  <!-- Stripe -->
   <a href="https://stripe.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg"
@@ -201,7 +182,6 @@
     />
   </a>
 
-  <!-- Postman -->
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -215,13 +195,10 @@
 
 ---
 
-<!-- ========================= FRONTEND ========================= -->
-
 <h3 align="left">Frontend & Other Tools:</h3>
 
 <p align="left">
 
-  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
@@ -231,7 +208,6 @@
     />
   </a>
 
-  <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
@@ -241,7 +217,6 @@
     />
   </a>
 
-  <!-- Redux -->
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -251,7 +226,6 @@
     />
   </a>
 
-  <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
@@ -261,7 +235,6 @@
     />
   </a>
 
-  <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"
@@ -271,7 +244,6 @@
     />
   </a>
 
-  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -285,8 +257,6 @@
 
 ---
 
-<!-- ========================= PROFESSIONAL INFO ========================= -->
-
 <h3 align="left">Professional Background:</h3>
 
 <p>
@@ -298,4 +268,10 @@ database modeling, cloud integrations and payment systems.
 <p>
 I currently work with backend architectures using Node.js, Express,
 PostgreSQL, Sequelize and cloud services integrations.
+</p>
+
+---
+
+<p align="center">
+  <strong>📧 Feel free to reach out if you want to talk about tech, collaborations, or job opportunities!</strong>
 </p>
