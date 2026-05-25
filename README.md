@@ -1,3 +1,50 @@
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=leite-leo&label=Profile%20views&color=0e75b6&style=flat"
+    alt="leite-leo"
+  />
+</p>
+
+<h1 align="center">Hi 👋, I'm Leonardo Leite</h1>
+
+<h3 align="center">
+  Backend Developer focused on Node.js, APIs and Databases
+</h3>
+
+<p align="center">
+  Passionate about building scalable backend applications, RESTful APIs and cloud integrations
+</p>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+
+  <a href="https://linkedin.com/in/leonardo-sleite" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <a href="https://fb.com/leite.leonardo" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="facebook"
+      height="30"
+      width="40"
+    />
+  </a>
+
+</p>
+
+---
+
 <!-- ========================= BACKEND STACK ========================= -->
 
 <h3 align="left">Backend Stack:</h3>
@@ -86,6 +133,8 @@
 
 </p>
 
+---
+
 <!-- ========================= CLOUD & DEPLOY ========================= -->
 
 <h3 align="left">Cloud & Deploy:</h3>
@@ -134,6 +183,8 @@
 
 </p>
 
+---
+
 <!-- ========================= INTEGRATIONS ========================= -->
 
 <h3 align="left">Integrations & Tools:</h3>
@@ -161,6 +212,8 @@
   </a>
 
 </p>
+
+---
 
 <!-- ========================= FRONTEND ========================= -->
 
@@ -230,6 +283,8 @@
 
 </p>
 
+---
+
 <!-- ========================= PROFESSIONAL INFO ========================= -->
 
 <h3 align="left">Professional Background:</h3>
@@ -238,4 +293,9 @@
 Most of my backend work is developed in private client repositories using
 production workflows with dedicated deployment branches, RESTful APIs, 
 database modeling, cloud integrations and payment systems.
+</p>
+
+<p>
+I currently work with backend architectures using Node.js, Express,
+PostgreSQL, Sequelize and cloud services integrations.
 </p>
