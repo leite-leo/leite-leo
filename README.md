@@ -1,47 +1,4 @@
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=leite-leo&label=Profile%20views&color=0e75b6&style=flat"
-    alt="leite-leo"
-  />
-</p>
-
-<h1 align="center">Hi 👋, I'm Leonardo Leite</h1>
-
-<h3 align="center">
-  Backend Developer focused on Node.js, APIs and Databases
-</h3>
-
-<p align="center">
-  Passionate about building scalable backend applications and RESTful APIs
-</p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/leonardo-sleite" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="linkedin"
-      height="30"
-      width="40"
-    />
-  </a>
-
-  <a href="https://fb.com/leite.leonardo" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="facebook"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
-
----
+<!-- ========================= BACKEND STACK ========================= -->
 
 <h3 align="left">Backend Stack:</h3>
 
@@ -107,41 +64,11 @@
     />
   </a>
 
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="55"
-      height="55"
-    />
-  </a>
-
-  <!-- AWS S3 -->
-  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
-      alt="aws s3"
-      width="55"
-      height="55"
-    />
-  </a>
-
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
       alt="docker"
-      width="55"
-      height="55"
-    />
-  </a>
-
-  <!-- Postman -->
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
       width="55"
       height="55"
     />
@@ -159,12 +86,89 @@
 
 </p>
 
----
+<!-- ========================= CLOUD & DEPLOY ========================= -->
+
+<h3 align="left">Cloud & Deploy:</h3>
+
+<p align="left">
+
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
+      alt="aws"
+      width="55"
+      height="55"
+    />
+  </a>
+
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="55"
+      height="55"
+    />
+  </a>
+
+  <!-- Heroku -->
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+      alt="heroku"
+      width="55"
+      height="55"
+    />
+  </a>
+
+  <!-- Render -->
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://images.seeklogo.com/logo-png/43/1/render-logo-png_seeklogo-435814.png"
+      alt="render"
+      width="55"
+      height="55"
+    />
+  </a>
+
+</p>
+
+<!-- ========================= INTEGRATIONS ========================= -->
+
+<h3 align="left">Integrations & Tools:</h3>
+
+<p align="left">
+
+  <!-- Stripe -->
+  <a href="https://stripe.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg"
+      alt="stripe"
+      width="55"
+      height="55"
+    />
+  </a>
+
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="55"
+      height="55"
+    />
+  </a>
+
+</p>
+
+<!-- ========================= FRONTEND ========================= -->
 
 <h3 align="left">Frontend & Other Tools:</h3>
 
 <p align="left">
 
+  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
@@ -174,6 +178,7 @@
     />
   </a>
 
+  <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
@@ -183,6 +188,7 @@
     />
   </a>
 
+  <!-- Redux -->
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -192,6 +198,7 @@
     />
   </a>
 
+  <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
@@ -201,6 +208,7 @@
     />
   </a>
 
+  <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"
@@ -210,6 +218,7 @@
     />
   </a>
 
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -219,4 +228,14 @@
     />
   </a>
 
+</p>
+
+<!-- ========================= PROFESSIONAL INFO ========================= -->
+
+<h3 align="left">Professional Background:</h3>
+
+<p>
+Most of my backend work is developed in private client repositories using
+production workflows with dedicated deployment branches, RESTful APIs, 
+database modeling, cloud integrations and payment systems.
 </p>
