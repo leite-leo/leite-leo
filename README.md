@@ -190,7 +190,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=leite-leo&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leite-leo&layout=compact&theme=tokyonight"
     alt="top languages"
   />
 </p>
@@ -198,7 +198,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=leite-leo&show_icons=true&locale=en&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=leite-leo&show_icons=true&theme=tokyonight"
     alt="github stats"
   />
 </p>
