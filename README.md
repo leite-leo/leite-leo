@@ -158,10 +158,9 @@
 
   <a href="https://render.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg"
+      src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white"
       alt="render"
-      width="55"
-      height="55"
+      height="40"
     />
   </a>
 
