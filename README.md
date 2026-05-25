@@ -47,6 +47,7 @@
 
 <p align="left">
 
+  <!-- Node.js -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
@@ -56,6 +57,7 @@
     />
   </a>
 
+  <!-- Express -->
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
@@ -65,33 +67,7 @@
     />
   </a>
 
-  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://sequelize.org/img/logo.svg"
-      alt="sequelize"
-      width="55"
-      height="55"
-    />
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
-      alt="postgresql"
-      width="55"
-      height="55"
-    />
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
-      alt="mongodb"
-      width="55"
-      height="55"
-    />
-  </a>
-
+  <!-- REST API -->
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png"
@@ -101,6 +77,57 @@
     />
   </a>
 
+  <!-- Sequelize -->
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://sequelize.org/img/logo.svg"
+      alt="sequelize"
+      width="55"
+      height="55"
+    />
+  </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"
+      alt="postgresql"
+      width="55"
+      height="55"
+    />
+  </a>
+
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
+      alt="mongodb"
+      width="55"
+      height="55"
+    />
+  </a>
+
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="55"
+      height="55"
+    />
+  </a>
+
+  <!-- AWS S3 -->
+  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"
+      alt="aws s3"
+      width="55"
+      height="55"
+    />
+  </a>
+
+  <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"
@@ -110,6 +137,17 @@
     />
   </a>
 
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="55"
+      height="55"
+    />
+  </a>
+
+  <!-- Jest -->
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
@@ -181,32 +219,4 @@
     />
   </a>
 
-</p>
-
----
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leite-leo&layout=compact&theme=tokyonight"
-    alt="top languages"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=leite-leo&show_icons=true&theme=tokyonight"
-    alt="github stats"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=leite-leo&theme=tokyonight"
-    alt="github streak"
-  />
 </p>
